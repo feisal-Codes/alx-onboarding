@@ -1,0 +1,5 @@
+Read number
+Set sum to 0;
+While(number >= 0)
+ Set sum to number + sum
+ Read x

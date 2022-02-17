@@ -1,0 +1,9 @@
+
+
+Read inputs 
+initialise sum = 0
+for number in inputs:
+   set sum = sum + (number * number)
+end for loop
+write sum 
+
